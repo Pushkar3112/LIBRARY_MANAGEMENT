@@ -1,0 +1,2 @@
+b1 cpp stroustrup 3
+b2 python guido 2
